@@ -1,11 +1,3 @@
-import React from "react";
-
-function LatinPractice() {
-  return(
-    <div>ihujn </div>
-  ) 
-}
-
-
-
-export default LatinPractice;
+import React from 'react';
+import './latinpractice'
+ 
